@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Triple-Z's github stats](https://github-readme-stats.vercel.app/api?username=Triple-Z&show_icons=true&theme=gruvbox)
+![Triple-Z's github stats](https://github-readme-stats.vercel.app/api?username=Triple-Z&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Triple-Z&theme=default)
